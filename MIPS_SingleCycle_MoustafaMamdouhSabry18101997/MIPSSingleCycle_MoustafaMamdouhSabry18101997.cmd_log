@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "F:/Xilinx_Files/MIPS_SingleCycle_MoustafaMamdouhSabry18101997/MIPSSingleCycle_MoustafaMamdouhSabry18101997.xst" -ofn "F:/Xilinx_Files/MIPS_SingleCycle_MoustafaMamdouhSabry18101997/MIPSSingleCycle_MoustafaMamdouhSabry18101997.syr" 
+xst -intstyle ise -ifn "F:/Xilinx_Files/MIPS_SingleCycle_MoustafaMamdouhSabry18101997/MIPSSingleCycle_MoustafaMamdouhSabry18101997.xst" -ofn "F:/Xilinx_Files/MIPS_SingleCycle_MoustafaMamdouhSabry18101997/MIPSSingleCycle_MoustafaMamdouhSabry18101997.syr" 

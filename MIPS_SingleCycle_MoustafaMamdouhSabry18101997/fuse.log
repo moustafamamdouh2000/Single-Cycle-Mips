@@ -1,0 +1,44 @@
+Running: F:\Xilinx\14.5\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/Hp/Desktop/CC311/Report/New folder/MIPS_SingleCycle_MoustafaMamdouhSabry18101997/MIPS_SingleCycle_MoustafaMamdouhSabry18101997_isim_beh.exe -prj C:/Users/Hp/Desktop/CC311/Report/New folder/MIPS_SingleCycle_MoustafaMamdouhSabry18101997/MIPS_SingleCycle_MoustafaMamdouhSabry18101997_beh.prj work.MIPS_SingleCycle_MoustafaMamdouhSabry18101997 
+ISim P.58f (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Hp/Desktop/CC311/Report/New folder/MIPS_SingleCycle_MoustafaMamdouhSabry18101997/SignExtend_MoustafaMamdouhSabry18101997.vhd" into library work
+Parsing VHDL file "C:/Users/Hp/Desktop/CC311/Report/New folder/MIPS_SingleCycle_MoustafaMamdouhSabry18101997/ShitLeft_MoustafaMamdouhSabry18101997.vhd" into library work
+Parsing VHDL file "C:/Users/Hp/Desktop/CC311/Report/New folder/MIPS_SingleCycle_MoustafaMamdouhSabry18101997/Register_MoustafamamdouhSabry18101997.vhd" into library work
+Parsing VHDL file "C:/Users/Hp/Desktop/CC311/Report/New folder/MIPS_SingleCycle_MoustafaMamdouhSabry18101997/PCUnit_MoustafaMamdouhSabry18101997.vhd" into library work
+Parsing VHDL file "C:/Users/Hp/Desktop/CC311/Report/New folder/MIPS_SingleCycle_MoustafaMamdouhSabry18101997/Mux5B_MoustafaMamdouhSabry18101997.vhd" into library work
+Parsing VHDL file "C:/Users/Hp/Desktop/CC311/Report/New folder/MIPS_SingleCycle_MoustafaMamdouhSabry18101997/Mux32B_MoustafaMamdouhSabry18101997.vhd" into library work
+Parsing VHDL file "C:/Users/Hp/Desktop/CC311/Report/New folder/MIPS_SingleCycle_MoustafaMamdouhSabry18101997/InstructionMemory_MoustafaMamdouhSabry18101997.vhd" into library work
+Parsing VHDL file "C:/Users/Hp/Desktop/CC311/Report/New folder/MIPS_SingleCycle_MoustafaMamdouhSabry18101997/DataMemory_MoustafaMamdouhSabry18101997.vhd" into library work
+Parsing VHDL file "C:/Users/Hp/Desktop/CC311/Report/New folder/MIPS_SingleCycle_MoustafaMamdouhSabry18101997/ControlUnit_MoustafaMamdouhSabry18101997.vhd" into library work
+Parsing VHDL file "C:/Users/Hp/Desktop/CC311/Report/New folder/MIPS_SingleCycle_MoustafaMamdouhSabry18101997/ALUMain_MoustafaMamdouhSabry18101997.vhd" into library work
+Parsing VHDL file "C:/Users/Hp/Desktop/CC311/Report/New folder/MIPS_SingleCycle_MoustafaMamdouhSabry18101997/ALUControl_MoustarfaMamdouhSabry18101997.vhd" into library work
+Parsing VHDL file "C:/Users/Hp/Desktop/CC311/Report/New folder/MIPS_SingleCycle_MoustafaMamdouhSabry18101997/Adder_MoustafaMamdouhSabry18101997.vhd" into library work
+Parsing VHDL file "C:/Users/Hp/Desktop/CC311/Report/New folder/MIPS_SingleCycle_MoustafaMamdouhSabry18101997/MIPSSingleCycle_MoustafaMamdouhSabry18101997.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity InstructionMemory_MoustafaMamdouhSabry18101997 [instructionmemory_moustafamamdou...]
+Compiling architecture behavioral of entity PCUnit_MoustafaMamdouhSabry18101997 [pcunit_moustafamamdouhsabry18101...]
+Compiling architecture behavioral of entity ControlUnit_MoustafaMamdouhSabry18101997 [controlunit_moustafamamdouhsabry...]
+Compiling architecture behavioral of entity ShitLeft_MoustafaMamdouhSabry18101997 [shitleft_moustafamamdouhsabry181...]
+Compiling architecture behavioral of entity SignExtend_MoustafaMamdouhSabry18101997 [signextend_moustafamamdouhsabry1...]
+Compiling architecture behavioral of entity ALUMain_MoustafaMamdouhSabry18101997 [alumain_moustafamamdouhsabry1810...]
+Compiling architecture behavioral of entity ALUControl_MoustarfaMamdouhSabry18101997 [alucontrol_moustarfamamdouhsabry...]
+Compiling architecture behavioral of entity Adder_MoustafaMamdouhSabry18101997 [adder_moustafamamdouhsabry181019...]
+Compiling architecture behavioral of entity Register_MoustafamamdouhSabry18101997 [register_moustafamamdouhsabry181...]
+Compiling architecture behavioral of entity DataMemory_MoustafaMamdouhSabry18101997 [datamemory_moustafamamdouhsabry1...]
+Compiling architecture behavioral of entity Mux5B_MoustafaMamdouhSabry18101997 [mux5b_moustafamamdouhsabry181019...]
+Compiling architecture behavioral of entity Mux32B_MoustafaMamdouhSabry18101997 [mux32b_moustafamamdouhsabry18101...]
+Compiling architecture behavioral of entity mips_singlecycle_moustafamamdouh...
+Time Resolution for simulation is 1ps.
+Waiting for 2 sub-compilation(s) to finish...
+Compiled 30 VHDL Units
+Built simulation executable C:/Users/Hp/Desktop/CC311/Report/New folder/MIPS_SingleCycle_MoustafaMamdouhSabry18101997/MIPS_SingleCycle_MoustafaMamdouhSabry18101997_isim_beh.exe
+Fuse Memory Usage: 37580 KB
+Fuse CPU Usage: 1671 ms

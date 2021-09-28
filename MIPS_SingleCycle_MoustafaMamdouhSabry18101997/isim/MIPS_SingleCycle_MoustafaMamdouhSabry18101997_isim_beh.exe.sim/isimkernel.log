@@ -1,0 +1,30 @@
+Command line:
+   MIPS_SingleCycle_MoustafaMamdouhSabry18101997_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  56393
+
+Sun Jun 06 11:58:56 2021
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5151.24 Meg
+
+ Total Signals          : 102
+ Total Nets             : 3653
+ Total Signal Drivers   : 37
+ Total Blocks           : 20
+ Total Primitive Blocks : 19
+ Total Processes        : 25
+ Total Traceable Variables  : 15
+ Total Scalar Nets and Variables : 4154
+In process InstructionMemory_MoustafaMamdouhSabry18101997.vhd:57 
+ 
+
+ Total Simulation Time: 0.125 sec
+
+ Current Memory Usage: 5151.24 Meg
+
+Sun Jun 06 11:59:19 2021
+
